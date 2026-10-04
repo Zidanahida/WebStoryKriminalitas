@@ -1,0 +1,217 @@
+{
+  "points": [
+    {
+      "Provinsi": "Aceh",
+      "MDS1": -0.3053,
+      "MDS2": 0.2614
+    },
+    {
+      "Provinsi": "Bali",
+      "MDS1": 0.6955,
+      "MDS2": 0.1178
+    },
+    {
+      "Provinsi": "Bangka Belitung",
+      "MDS1": -0.2808,
+      "MDS2": -1.2683
+    },
+    {
+      "Provinsi": "Banten",
+      "MDS1": 0.2659,
+      "MDS2": -0.8233
+    },
+    {
+      "Provinsi": "Bengkulu",
+      "MDS1": -0.8239,
+      "MDS2": 0.1046
+    },
+    {
+      "Provinsi": "Gorontalo",
+      "MDS1": -1.4436,
+      "MDS2": 0.2378
+    },
+    {
+      "Provinsi": "Jakarta",
+      "MDS1": 14.9284,
+      "MDS2": 2.0926
+    },
+    {
+      "Provinsi": "Jambi",
+      "MDS1": -0.4261,
+      "MDS2": -0.3112
+    },
+    {
+      "Provinsi": "Jawa Barat",
+      "MDS1": 0.2798,
+      "MDS2": -1.1463
+    },
+    {
+      "Provinsi": "Jawa Tengah",
+      "MDS1": -0.8612,
+      "MDS2": -0.5872
+    },
+    {
+      "Provinsi": "Jawa Timur",
+      "MDS1": -0.7822,
+      "MDS2": -0.4657
+    },
+    {
+      "Provinsi": "Kalimantan Barat",
+      "MDS1": -0.9,
+      "MDS2": -0.8496
+    },
+    {
+      "Provinsi": "Kalimantan Selatan",
+      "MDS1": -0.3836,
+      "MDS2": -0.6459
+    },
+    {
+      "Provinsi": "Kalimantan Tengah",
+      "MDS1": -0.3852,
+      "MDS2": -0.5
+    },
+    {
+      "Provinsi": "Kalimantan Timur",
+      "MDS1": 0.6661,
+      "MDS2": -0.4446
+    },
+    {
+      "Provinsi": "Kalimantan Utara",
+      "MDS1": -0.1602,
+      "MDS2": -0.2778
+    },
+    {
+      "Provinsi": "Kepulauan Riau",
+      "MDS1": 1.4515,
+      "MDS2": -0.0468
+    },
+    {
+      "Provinsi": "Lampung",
+      "MDS1": -0.8936,
+      "MDS2": -0.2943
+    },
+    {
+      "Provinsi": "Maluku",
+      "MDS1": -0.5572,
+      "MDS2": 0.8914
+    },
+    {
+      "Provinsi": "Maluku Utara",
+      "MDS1": -0.463,
+      "MDS2": -0.2946
+    },
+    {
+      "Provinsi": "Nusa Tenggara Barat",
+      "MDS1": -1.3812,
+      "MDS2": -0.3337
+    },
+    {
+      "Provinsi": "Nusa Tenggara Timur",
+      "MDS1": -2.2363,
+      "MDS2": 0.0253
+    },
+    {
+      "Provinsi": "Papua",
+      "MDS1": -0.3364,
+      "MDS2": 0.9654
+    },
+    {
+      "Provinsi": "Papua Barat",
+      "MDS1": -1.9961,
+      "MDS2": 1.2832
+    },
+    {
+      "Provinsi": "Riau",
+      "MDS1": -0.2168,
+      "MDS2": -0.1054
+    },
+    {
+      "Provinsi": "Sulawesi Barat",
+      "MDS1": -1.4674,
+      "MDS2": -0.2762
+    },
+    {
+      "Provinsi": "Sulawesi Selatan",
+      "MDS1": -0.5643,
+      "MDS2": 0.492
+    },
+    {
+      "Provinsi": "Sulawesi Tengah",
+      "MDS1": -0.9543,
+      "MDS2": 0.1601
+    },
+    {
+      "Provinsi": "Sulawesi Tenggara",
+      "MDS1": -0.7635,
+      "MDS2": 0.1326
+    },
+    {
+      "Provinsi": "Sulawesi Utara",
+      "MDS1": 0.1791,
+      "MDS2": 1.0579
+    },
+    {
+      "Provinsi": "Sumatera Barat",
+      "MDS1": 0.0083,
+      "MDS2": -0.2377
+    },
+    {
+      "Provinsi": "Sumatera Selatan",
+      "MDS1": -0.8211,
+      "MDS2": -0.109
+    },
+    {
+      "Provinsi": "Sumatera Utara",
+      "MDS1": -0.0143,
+      "MDS2": 0.5387
+    },
+    {
+      "Provinsi": "Yogyakarta",
+      "MDS1": 0.9429,
+      "MDS2": 0.6568
+    }
+  ],
+  "arrows": [
+    {
+      "label": "Kepadatan_Penduduk",
+      "x": 0.9635,
+      "y": 0.4842
+    },
+    {
+      "label": "IPM",
+      "x": 0.6959,
+      "y": 0.239
+    },
+    {
+      "label": "Pengeluaran_per_Kapita",
+      "x": 0.7966,
+      "y": 0.2418
+    },
+    {
+      "label": "RLS",
+      "x": 0.6626,
+      "y": 0.5382
+    },
+    {
+      "label": "TPT_Agustus",
+      "x": 0.3483,
+      "y": 0.1066
+    },
+    {
+      "label": "P0",
+      "x": -0.3628,
+      "y": 0.4146
+    },
+    {
+      "label": "Crime_Rate",
+      "x": 0.1011,
+      "y": 0.7728
+    },
+    {
+      "label": "Gini_Ratio",
+      "x": 0.3148,
+      "y": 0.3711
+    }
+  ],
+  "stress": [9.8584]
+}
