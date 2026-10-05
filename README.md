@@ -86,7 +86,5 @@ Pastikan file data Excel sudah ada di folder `public/` sebelum menjalankan aplik
 
 ---
 
-## Tim
-
 Tugas Ujian Akhir Semester — Mata Kuliah Visualisasi Data  
 Semester 6 · 2025/2026
